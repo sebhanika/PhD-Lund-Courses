@@ -1,9 +1,10 @@
 
 ## ---------------------------
 ##
-## Script name: 
+## Script name: Visualizing Web of Science Search
 ##
-## Topic:
+## Topic: THis script visualizes the search results for "open scicnce". 
+##        Part of the course: Kickstart to academic life.
 ##
 ## Author: Sebastian Hanika
 ##
