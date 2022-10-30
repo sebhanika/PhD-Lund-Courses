@@ -58,6 +58,5 @@ wos.data.filt %>%
         axis.text = element_text(color = 'grey30'),
         text = element_text(color = 'grey30'))
 
-
-ggsave('plot_wos.png', width = 18, height = 15, units = 'cm')  
-?ggsave
+# Export plot
+ggsave('Kickstart_Course/plot_wos.png', width = 17, height = 12, units = 'cm')  
